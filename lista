@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1298793260475965446/RjQ9cQpW_400x400.jpg", 1 LOCAL
-rtsp://admin:@192.168.1.22/0/av0
-
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1298793260475965446/RjQ9cQpW_400x400.jpg", 1 AIRE
 https://sc1.stweb.tv/airedigital/live/chunklist_w482097452.m3u8
 
@@ -54,6 +51,9 @@ http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/962300034661396481/OzHK6TZr_400x400.jpg", TODO NOTICIAS   
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617748585/ei/CY5sYOytGtSZ1sQPj4aKgA8/ip/190.228.244.174/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJkkWQOrv2l9qBAgTFqeq6wNqZVQjhu_93EOks2taDK8AiBU0E39Uh3vjwvuLuoupFyts4zUJDhVqvZ1LC0p2mYvrA%3D%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="LOCALES 1", A24 - 36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1171440347508920320/7pwThQbq_400x400.jpg", 17 KZO
 http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
 
@@ -74,22 +74,6 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg", DW  
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://guillesainz.com/wp-content/uploads/2019/11/logo-ATB.jpg" , ATB BOLIVIA
-http://186.121.206.197/live/daniel/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.megatvarequipa.com/wp-content/uploads/2020/06/cropped-104684146_960970201020528_6006149684953973330_n-1-2.png" , MEGA TV PERU 
-https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Abc_color.PNG/245px-Abc_color.PNG" , ABC PARAGUAY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal10_Logo_Actual.jpg/200px-Canal10_Logo_Actual.jpg" , SAETA CANAL 10 MONTEVIDEO HD URUGUAY
-https://edge-live14-hr.cvattv.com.ar:443/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU-audio_20000=144800-video=1480000.m3u8
-
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Canal_4_(Uruguay)" , CANAL 4 MONTEVIDEO HD URUGUAY
-https://edge3-hr.cvattv.com.ar/live/c5eds/Canal4_URU/verimatrix_rotating_FTA/Canal4_URU-audio_20000=144800-video=1480000.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" , EURONEWS
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
