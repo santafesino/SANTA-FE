@@ -1,70 +1,31 @@
-#EXTM3U
 
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1298793260475965446/RjQ9cQpW_400x400.jpg", 1 - AIRE
-https://sc1.stweb.tv/airedigital/live/chunklist_w482097452.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg", 2 - LITUS
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online-218x150.png", 3 - VEO
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1286668545661820929/9nqWAP92_400x400.jpg", 4 - POWER MAX
-https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389261899234222083/FlHf9HZh_400x400.png", 5 - SANTA FE CANAL
+#EXTM3U    
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="CENTRO", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x1.png", 6 - C5SF
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="CENTRO", LITUS TV SANTA FE
+https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online-218x150.png" group-title="CENTRO", VEO SANTA FE
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="CENTRO", TELEFE SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", AIRE DE SANTA FE +
+https://ny1.stweb.tv/airedigital/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="CENTRO", ACTIVA TV SANTA FE
+https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1268652585466187777/w0wUn-rx_400x400.jpg", 7 - 91.9
-http://streamingvideo.com.ar:1935/radiodenoticias/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="CENTRO", POWER MAX 104.1 FM RECREO SANTA FE
+https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-5-tv.png", 8 - C30
-https://srv3.zcast.com.ar/carlosr/carlosr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1417887470419648518/5xPM1ABY.jpg" group-title="MESOPOTAMIA", CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ_400x400.jpg", 9 - EME
-https://stmv1.questreaming.com/eme/eme/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1036261896897417217/PyLR6rnw_400x400.jpg", 10 - EL TRES
-https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png", 11 - TELEDIARIO
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" , 12 - MAS 
-https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-
-#EXTINF:-1 tvg-logo="https://scontent.fros2-2.fna.fbcdn.net/v/t1.6435-9/113378155_2576906372625267_4118561220157165688_n.png?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=dK1ZsQcwpcAAX8834Ud&_nc_ht=scontent.fros2-2.fna&oh=c2588610e13abe9c47b2dcd2c8baceeb&oe=609617C7" , 13 - ACTIVA (no es estable)
-https://59537faa0729a.streamlock.net:443/tvactiva/tvactiva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" , 14 - TyC SPORT
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_11.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/300px-Logo_TVE-2.svg.png" , 15 - LA 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318466550190559232/WvKM8ENd_400x400.jpg", 16 - RTE24 
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" , 17 - EURONEWS
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg", 18 - DW  
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1RXnVq3IbByHRTOzVpySxror_Kie_6oYAhw&usqp=CAU" , 19 - A3CINE
-http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
- #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" , 20 - SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lavozdetucuman.com/wp-content/uploads/2020/04/radio-en-vivo-1-1.gif" , 21 - LA VOZ TV
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" , 22 - WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1tZQmJ-ZMsxjx8oA7pSvKwkvyO8oO-RNfXmQo0Q=s900-c-k-c0x00ffffff-no-rj" group-title="MESOPOTAMIA", ONCE TV PARANA
+https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
