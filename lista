@@ -1,31 +1,221 @@
-
 #EXTM3U    
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="CENTRO", SANTA FE CANAL
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389261899234222083/FlHf9HZh_400x400.png" group-title="TV", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ.jpg" group-title="CENTRO", LITUS TV SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="TV", LITUS TV SANTA FE
 https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Veo-Santa-Fe-en-vivo-Online-218x150.png" group-title="CENTRO", VEO SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458815000269795334/xbLYTlgc_400x400.png" group-title="TV", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="CENTRO", TELEFE SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="TV", TELEFE SANTA FE
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="CENTRO", AIRE DE SANTA FE +
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1298793260475965446/RjQ9cQpW_400x400.jpg" group-title="TV", AIRE DE SANTA FE +
 https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KpgEAsGdpDE/XUtjFb_0mpI/AAAAAAAAHDo/2tDNzjjnej8AEwBjlNPoPIPBOP6hs20hACLcBGAs/s1600/fm-activa-93-1.png" group-title="CENTRO", ACTIVA TV SANTA FE
-https://59537faa0729a.streamlock.net/tvactiva/tvactiva/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x2.png" group-title="CENTRO", C5SF SANTA FE
-https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="CENTRO", POWER MAX 104.1 FM RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="TV", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1417887470419648518/5xPM1ABY.jpg" group-title="MESOPOTAMIA", CANAL 9 PARANA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="TV", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS1tZQmJ-ZMsxjx8oA7pSvKwkvyO8oO-RNfXmQo0Q=s900-c-k-c0x00ffffff-no-rj" group-title="MESOPOTAMIA", ONCE TV PARANA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/610516113391267840/6Qf7cV0w_400x400.jpg" group-title="TV", ONCE TV PARANA
 https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/533028644679991297/8owEZF3a_400x400.jpeg" group-title="CAMARA", PATIO
+rtsp://admin:@192.168.1.11/0/av0
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/533028644679991297/8owEZF3a_400x400.jpeg" group-title="CAMARA", PUERTA
+rtsp://admin:LYZELU@192.168.1.22/h264
+
+
+#EXTINF:6209,001 - la muerte le sienta bien
+http://192.168.1.33:8200/MediaItems/67.mp4
+#EXTINF:6794,004 - heroe por accidente
+http://192.168.1.33:8200/MediaItems/23.mp4
+#EXTINF:7209,005 - mi pobre angelito 2
+http://192.168.1.33:8200/MediaItems/24.mp4
+#EXTINF:6874,006 - luz dia
+http://192.168.1.33:8200/MediaItems/25.mp4
+#EXTINF:6726,009 - Buscando a Eva
+http://192.168.1.33:8200/MediaItems/86.mp4
+#EXTINF:6308,010 - Cartas a Julieta
+http://192.168.1.33:8200/MediaItems/85.mp4
+#EXTINF:6547,011 - la otra
+http://192.168.1.33:8200/MediaItems/26.mp4
+#EXTINF:8517,013 - mentiras verdaderas
+http://192.168.1.33:8200/MediaItems/27.mp4
+#EXTINF:6822,The American President (1995) by.relampago_846
+http://192.168.1.33:8200/MediaItems/84.mp4
+#EXTINF:5126,019 - Dragonball evolución
+http://192.168.1.33:8200/MediaItems/83.mp4
+#EXTINF:7653,020 - el destino de jupiter
+http://192.168.1.33:8200/MediaItems/100.mp4
+#EXTINF:7420,022 - El día después de mañana
+http://192.168.1.33:8200/MediaItems/131.mp4
+#EXTINF:5192,026 - en la banca
+http://192.168.1.33:8200/MediaItems/28.mp4
+#EXTINF:7928,WWW.COMPUCALITV.COM
+http://192.168.1.33:8200/MediaItems/123.mp4
+#EXTINF:8852,WwW.PelisLatino3gp.Net
+http://192.168.1.33:8200/MediaItems/122.mp4
+#EXTINF:6231,032 - volcano
+http://192.168.1.33:8200/MediaItems/29.mp4
+#EXTINF:7725,El Mundo Perdido: Jurassic Park (1997)
+http://192.168.1.33:8200/MediaItems/121.mp4
+#EXTINF:7698,www.DescargateloCorp.com
+http://192.168.1.33:8200/MediaItems/120.mp4
+#EXTINF:5510,047 - Los 4 Fantásticos y Silver Surfer  
+http://192.168.1.33:8200/MediaItems/127.mp4
+#EXTINF:6464,049 - Los doble-vida
+http://192.168.1.33:8200/MediaItems/31.mp4
+#EXTINF:5260,050 - Love on Harbor Island 
+http://192.168.1.33:8200/MediaItems/32.mp4
+#EXTINF:7437,055 - Power Rangers
+http://192.168.1.33:8200/MediaItems/81.mp4
+#EXTINF:7610,062 - Star Trek 2009
+http://192.168.1.33:8200/MediaItems/118.mp4
+#EXTINF:7342,063 - Star Trek Sin Límites
+http://192.168.1.33:8200/MediaItems/117.mp4
+#EXTINF:5969,064 - Súper Escuela de Héroes
+http://192.168.1.33:8200/MediaItems/80.mp4
+#EXTINF:6253,070 - Un detective suelto en Hollywood III 
+http://192.168.1.33:8200/MediaItems/116.mp4
+#EXTINF:6143,071 - cody banks
+http://192.168.1.33:8200/MediaItems/33.mp4
+#EXTINF:6080,079 - Zathura
+http://192.168.1.33:8200/MediaItems/115.mp4
+#EXTINF:6995,081 - irene yo y mi otro yo 
+http://192.168.1.33:8200/MediaItems/130.mp4
+#EXTINF:5371,085 - radio rebel
+http://192.168.1.33:8200/MediaItems/79.mp4
+#EXTINF:6577,086 - comando especial 1
+http://192.168.1.33:8200/MediaItems/113.mp4
+#EXTINF:6090,Felicia de Bedout - Eternamente joven (1992) .
+http://192.168.1.33:8200/MediaItems/112.mp4
+#EXTINF:6716,089  -comando especial 2
+http://192.168.1.33:8200/MediaItems/111.mp4
+#EXTINF:6294,090 - Un sueño para ella
+http://192.168.1.33:8200/MediaItems/78.mp4
+#EXTINF:6516,gottsu02 gottsu02 - One.fine.day.1996.720p.bdrip.lat
+http://192.168.1.33:8200/MediaItems/110.mp4
+#EXTINF:5712,092 - la nueva cenicienta
+http://192.168.1.33:8200/MediaItems/77.mp4
+#EXTINF:5556,093 - 16 velas 
+http://192.168.1.33:8200/MediaItems/76.mp4
+#EXTINF:6087,By  yezo  /   www.Vagos.es - YeZo_Tooth Fairy
+http://192.168.1.33:8200/MediaItems/128.mp4
+#EXTINF:5204,096 - los coneheads
+http://192.168.1.33:8200/MediaItems/75.mp4
+#EXTINF:7164,098 - tienes un email
+http://192.168.1.33:8200/MediaItems/74.mp4
+#EXTINF:5922,102 - wall-e
+http://192.168.1.33:8200/MediaItems/73.mp4
+#EXTINF:6769,104 - tonto y retonto
+http://192.168.1.33:8200/MediaItems/129.mp4
+#EXTINF:5687,108 - Subí que te llevo 
+http://192.168.1.33:8200/MediaItems/107.mp4
+#EXTINF:7955,Virgen a los 40 (2005) Dual 1080p [wWw.PelisMEGAHD.Org]
+http://192.168.1.33:8200/MediaItems/35.mp4
+#EXTINF:6817,110 - sigue tu musica
+http://192.168.1.33:8200/MediaItems/72.mp4
+#EXTINF:6038,111 - el hombre perfecto
+http://192.168.1.33:8200/MediaItems/36.mp4
+#EXTINF:4226,112 - el club del clan
+http://192.168.1.33:8200/MediaItems/126.mp4
+#EXTINF:6102,123 - evolucion
+http://192.168.1.33:8200/MediaItems/70.mp4
+#EXTINF:7692,125 - epidemia
+http://192.168.1.33:8200/MediaItems/105.mp4
+#EXTINF:5683,126 - flashdance
+http://192.168.1.33:8200/MediaItems/37.mp4
+#EXTINF:5676,127 - manten en secreto
+http://192.168.1.33:8200/MediaItems/38.mp4
+#EXTINF:6158,128 - devuelveme mi suerte
+http://192.168.1.33:8200/MediaItems/39.mp4
+#EXTINF:6648,129 - 27 vestidos
+http://192.168.1.33:8200/MediaItems/40.mp4
+#EXTINF:5685,130 - como si fuera cierto 
+http://192.168.1.33:8200/MediaItems/41.mp4
+#EXTINF:6088,131 - esposa por accidene
+http://192.168.1.33:8200/MediaItems/42.mp4
+#EXTINF:6253,132 -  loca por las compras
+http://192.168.1.33:8200/MediaItems/43.mp4
+#EXTINF:5458,133 -   Serendipity
+http://192.168.1.33:8200/MediaItems/44.mp4
+#EXTINF:5913,134  - la casa del lago 
+http://192.168.1.33:8200/MediaItems/45.mp4
+#EXTINF:5739,135 - alguien como tu
+http://192.168.1.33:8200/MediaItems/46.mp4
+#EXTINF:6467,136 - la promesa
+http://192.168.1.33:8200/MediaItems/47.mp4
+#EXTINF:6999,137 - una esposa de metira
+http://192.168.1.33:8200/MediaItems/48.mp4
+#EXTINF:5424,138 - maniquin
+http://192.168.1.33:8200/MediaItems/49.mp4
+#EXTINF:7017,139 - un principe en nueva york
+http://192.168.1.33:8200/MediaItems/50.mp4
+#EXTINF:6615,140 - miss simpatia 1
+http://192.168.1.33:8200/MediaItems/51.mp4
+#EXTINF:6920,141 - miss simpatia 2
+http://192.168.1.33:8200/MediaItems/52.mp4
+#EXTINF:6054,142 - cuando te encuentre
+http://192.168.1.33:8200/MediaItems/53.mp4
+#EXTINF:7841,143 - loco por mary
+http://192.168.1.33:8200/MediaItems/54.mp4
+#EXTINF:7359,145 - un viaje de 10 metros
+http://192.168.1.33:8200/MediaItems/56.mp4
+#EXTINF:6255,146 - jumanji
+http://192.168.1.33:8200/MediaItems/57.mp4
+#EXTINF:7151,147 - jumanji 2
+http://192.168.1.33:8200/MediaItems/58.mp4
+#EXTINF:6018,148 - casper
+http://192.168.1.33:8200/MediaItems/59.mp4
+#EXTINF:5189,149 - mentiroso mentiroso
+http://192.168.1.33:8200/MediaItems/60.mp4
+#EXTINF:6508,150 - el pico de dante
+http://192.168.1.33:8200/MediaItems/61.mp4
+#EXTINF:5612,152 - quien es esa chica
+http://192.168.1.33:8200/MediaItems/63.mp4
+#EXTINF:6180,153 - todo en un dia
+http://192.168.1.33:8200/MediaItems/64.mp4
+#EXTINF:6020,154 - Un gran amor
+http://192.168.1.33:8200/MediaItems/65.mp4
+#EXTINF:5653,155 - viaje censurado
+http://192.168.1.33:8200/MediaItems/66.mp4
+#EXTINF:5901,157 - fin de semana de locura
+http://192.168.1.33:8200/MediaItems/68.mp4
+#EXTINF:5598,159 - al diablo con el diablo
+http://192.168.1.33:8200/MediaItems/99.mp4
+#EXTINF:6823,160 - amor ciego
+http://192.168.1.33:8200/MediaItems/98.mp4
+#EXTINF:6037,170 - mientras dormias
+http://192.168.1.33:8200/MediaItems/91.mp4
+#EXTINF:5647,172 - solo amigos
+http://192.168.1.33:8200/MediaItems/90.mp4
+#EXTINF:7029,177 - antman
+http://192.168.1.33:8200/MediaItems/89.mp4
+#EXTINF:5853,178 - ni idea
+http://192.168.1.33:8200/MediaItems/88.mp4
+#EXTINF:7095,179 - antman 2
+http://192.168.1.33:8200/MediaItems/87.mp4
+#EXTINF:6543,182 - el parendiz de brujo
+http://192.168.1.33:8200/MediaItems/97.mp4
+#EXTINF:5837,185 - llevame a casa esta noche
+http://192.168.1.33:8200/MediaItems/94.mp4
+#EXTINF:5668,186 - la peor noche de mi vida
+http://192.168.1.33:8200/MediaItems/93.mp4
+#EXTINF:6593,187 - quien son los miller
+http://192.168.1.33:8200/MediaItems/92.mp4
+#EXTINF:5544,188 - se dice de mi
+http://192.168.1.33:8200/MediaItems/104.mp4
+#EXTINF:5965,196 - ciega a citas
+http://192.168.1.33:8200/MediaItems/125.mp4
+#EXTINF:5824,197 - el club de los 5
+http://192.168.1.33:8200/MediaItems/102.mp4
+#EXTINF:6489,201 - enemigo mio
+http://192.168.1.33:8200/MediaItems/101.mp4
+
+
+
