@@ -1,221 +1,267 @@
-#EXTM3U    
-EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1389261899234222083/FlHf9HZh_400x400.png" group-title="TV", SANTA FE CANAL
+
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" group-title="NOTICIAS", TODO NOTICIAS       
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="MESOPOTAMIA", CANAL 9 PARANA
+https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="SANTA FE", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="TV", LITUS TV SANTA FE
-https://5975e06a1f292.streamlock.net:4443/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar" tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="SANTA FE", TELEFE SANTA FE
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458815000269795334/xbLYTlgc_400x400.png" group-title="TV", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1287857707756728322/DacVsXh-_400x400.jpg" group-title="TV", TELEFE SANTA FE
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1298793260475965446/RjQ9cQpW_400x400.jpg" group-title="TV", AIRE DE SANTA FE +
-https://ny1.stweb.tv/airedigital/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="TV", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="TV", CANAL 9 PARANA
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/610516113391267840/6Qf7cV0w_400x400.jpg" group-title="TV", ONCE TV PARANA
-https://elonceovh.elonce.com/hls/live_240p1700kbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE +
+https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/533028644679991297/8owEZF3a_400x400.jpeg" group-title="CAMARA", PATIO
-rtsp://admin:@192.168.1.11/0/av0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE", CANAL 3 ROSARIO
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/533028644679991297/8owEZF3a_400x400.jpeg" group-title="CAMARA", PUERTA
-rtsp://admin:LYZELU@192.168.1.22/h264
+#EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD
+https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8               
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" group-title="NOTICIAS", 24 HORAS ESPAÑA
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
-#EXTINF:6209,001 - la muerte le sienta bien
-http://192.168.1.33:8200/MediaItems/67.mp4
-#EXTINF:6794,004 - heroe por accidente
-http://192.168.1.33:8200/MediaItems/23.mp4
-#EXTINF:7209,005 - mi pobre angelito 2
-http://192.168.1.33:8200/MediaItems/24.mp4
-#EXTINF:6874,006 - luz dia
-http://192.168.1.33:8200/MediaItems/25.mp4
-#EXTINF:6726,009 - Buscando a Eva
-http://192.168.1.33:8200/MediaItems/86.mp4
-#EXTINF:6308,010 - Cartas a Julieta
-http://192.168.1.33:8200/MediaItems/85.mp4
-#EXTINF:6547,011 - la otra
-http://192.168.1.33:8200/MediaItems/26.mp4
-#EXTINF:8517,013 - mentiras verdaderas
-http://192.168.1.33:8200/MediaItems/27.mp4
-#EXTINF:6822,The American President (1995) by.relampago_846
-http://192.168.1.33:8200/MediaItems/84.mp4
-#EXTINF:5126,019 - Dragonball evolución
-http://192.168.1.33:8200/MediaItems/83.mp4
-#EXTINF:7653,020 - el destino de jupiter
-http://192.168.1.33:8200/MediaItems/100.mp4
-#EXTINF:7420,022 - El día después de mañana
-http://192.168.1.33:8200/MediaItems/131.mp4
-#EXTINF:5192,026 - en la banca
-http://192.168.1.33:8200/MediaItems/28.mp4
-#EXTINF:7928,WWW.COMPUCALITV.COM
-http://192.168.1.33:8200/MediaItems/123.mp4
-#EXTINF:8852,WwW.PelisLatino3gp.Net
-http://192.168.1.33:8200/MediaItems/122.mp4
-#EXTINF:6231,032 - volcano
-http://192.168.1.33:8200/MediaItems/29.mp4
-#EXTINF:7725,El Mundo Perdido: Jurassic Park (1997)
-http://192.168.1.33:8200/MediaItems/121.mp4
-#EXTINF:7698,www.DescargateloCorp.com
-http://192.168.1.33:8200/MediaItems/120.mp4
-#EXTINF:5510,047 - Los 4 Fantásticos y Silver Surfer  
-http://192.168.1.33:8200/MediaItems/127.mp4
-#EXTINF:6464,049 - Los doble-vida
-http://192.168.1.33:8200/MediaItems/31.mp4
-#EXTINF:5260,050 - Love on Harbor Island 
-http://192.168.1.33:8200/MediaItems/32.mp4
-#EXTINF:7437,055 - Power Rangers
-http://192.168.1.33:8200/MediaItems/81.mp4
-#EXTINF:7610,062 - Star Trek 2009
-http://192.168.1.33:8200/MediaItems/118.mp4
-#EXTINF:7342,063 - Star Trek Sin Límites
-http://192.168.1.33:8200/MediaItems/117.mp4
-#EXTINF:5969,064 - Súper Escuela de Héroes
-http://192.168.1.33:8200/MediaItems/80.mp4
-#EXTINF:6253,070 - Un detective suelto en Hollywood III 
-http://192.168.1.33:8200/MediaItems/116.mp4
-#EXTINF:6143,071 - cody banks
-http://192.168.1.33:8200/MediaItems/33.mp4
-#EXTINF:6080,079 - Zathura
-http://192.168.1.33:8200/MediaItems/115.mp4
-#EXTINF:6995,081 - irene yo y mi otro yo 
-http://192.168.1.33:8200/MediaItems/130.mp4
-#EXTINF:5371,085 - radio rebel
-http://192.168.1.33:8200/MediaItems/79.mp4
-#EXTINF:6577,086 - comando especial 1
-http://192.168.1.33:8200/MediaItems/113.mp4
-#EXTINF:6090,Felicia de Bedout - Eternamente joven (1992) .
-http://192.168.1.33:8200/MediaItems/112.mp4
-#EXTINF:6716,089  -comando especial 2
-http://192.168.1.33:8200/MediaItems/111.mp4
-#EXTINF:6294,090 - Un sueño para ella
-http://192.168.1.33:8200/MediaItems/78.mp4
-#EXTINF:6516,gottsu02 gottsu02 - One.fine.day.1996.720p.bdrip.lat
-http://192.168.1.33:8200/MediaItems/110.mp4
-#EXTINF:5712,092 - la nueva cenicienta
-http://192.168.1.33:8200/MediaItems/77.mp4
-#EXTINF:5556,093 - 16 velas 
-http://192.168.1.33:8200/MediaItems/76.mp4
-#EXTINF:6087,By  yezo  /   www.Vagos.es - YeZo_Tooth Fairy
-http://192.168.1.33:8200/MediaItems/128.mp4
-#EXTINF:5204,096 - los coneheads
-http://192.168.1.33:8200/MediaItems/75.mp4
-#EXTINF:7164,098 - tienes un email
-http://192.168.1.33:8200/MediaItems/74.mp4
-#EXTINF:5922,102 - wall-e
-http://192.168.1.33:8200/MediaItems/73.mp4
-#EXTINF:6769,104 - tonto y retonto
-http://192.168.1.33:8200/MediaItems/129.mp4
-#EXTINF:5687,108 - Subí que te llevo 
-http://192.168.1.33:8200/MediaItems/107.mp4
-#EXTINF:7955,Virgen a los 40 (2005) Dual 1080p [wWw.PelisMEGAHD.Org]
-http://192.168.1.33:8200/MediaItems/35.mp4
-#EXTINF:6817,110 - sigue tu musica
-http://192.168.1.33:8200/MediaItems/72.mp4
-#EXTINF:6038,111 - el hombre perfecto
-http://192.168.1.33:8200/MediaItems/36.mp4
-#EXTINF:4226,112 - el club del clan
-http://192.168.1.33:8200/MediaItems/126.mp4
-#EXTINF:6102,123 - evolucion
-http://192.168.1.33:8200/MediaItems/70.mp4
-#EXTINF:7692,125 - epidemia
-http://192.168.1.33:8200/MediaItems/105.mp4
-#EXTINF:5683,126 - flashdance
-http://192.168.1.33:8200/MediaItems/37.mp4
-#EXTINF:5676,127 - manten en secreto
-http://192.168.1.33:8200/MediaItems/38.mp4
-#EXTINF:6158,128 - devuelveme mi suerte
-http://192.168.1.33:8200/MediaItems/39.mp4
-#EXTINF:6648,129 - 27 vestidos
-http://192.168.1.33:8200/MediaItems/40.mp4
-#EXTINF:5685,130 - como si fuera cierto 
-http://192.168.1.33:8200/MediaItems/41.mp4
-#EXTINF:6088,131 - esposa por accidene
-http://192.168.1.33:8200/MediaItems/42.mp4
-#EXTINF:6253,132 -  loca por las compras
-http://192.168.1.33:8200/MediaItems/43.mp4
-#EXTINF:5458,133 -   Serendipity
-http://192.168.1.33:8200/MediaItems/44.mp4
-#EXTINF:5913,134  - la casa del lago 
-http://192.168.1.33:8200/MediaItems/45.mp4
-#EXTINF:5739,135 - alguien como tu
-http://192.168.1.33:8200/MediaItems/46.mp4
-#EXTINF:6467,136 - la promesa
-http://192.168.1.33:8200/MediaItems/47.mp4
-#EXTINF:6999,137 - una esposa de metira
-http://192.168.1.33:8200/MediaItems/48.mp4
-#EXTINF:5424,138 - maniquin
-http://192.168.1.33:8200/MediaItems/49.mp4
-#EXTINF:7017,139 - un principe en nueva york
-http://192.168.1.33:8200/MediaItems/50.mp4
-#EXTINF:6615,140 - miss simpatia 1
-http://192.168.1.33:8200/MediaItems/51.mp4
-#EXTINF:6920,141 - miss simpatia 2
-http://192.168.1.33:8200/MediaItems/52.mp4
-#EXTINF:6054,142 - cuando te encuentre
-http://192.168.1.33:8200/MediaItems/53.mp4
-#EXTINF:7841,143 - loco por mary
-http://192.168.1.33:8200/MediaItems/54.mp4
-#EXTINF:7359,145 - un viaje de 10 metros
-http://192.168.1.33:8200/MediaItems/56.mp4
-#EXTINF:6255,146 - jumanji
-http://192.168.1.33:8200/MediaItems/57.mp4
-#EXTINF:7151,147 - jumanji 2
-http://192.168.1.33:8200/MediaItems/58.mp4
-#EXTINF:6018,148 - casper
-http://192.168.1.33:8200/MediaItems/59.mp4
-#EXTINF:5189,149 - mentiroso mentiroso
-http://192.168.1.33:8200/MediaItems/60.mp4
-#EXTINF:6508,150 - el pico de dante
-http://192.168.1.33:8200/MediaItems/61.mp4
-#EXTINF:5612,152 - quien es esa chica
-http://192.168.1.33:8200/MediaItems/63.mp4
-#EXTINF:6180,153 - todo en un dia
-http://192.168.1.33:8200/MediaItems/64.mp4
-#EXTINF:6020,154 - Un gran amor
-http://192.168.1.33:8200/MediaItems/65.mp4
-#EXTINF:5653,155 - viaje censurado
-http://192.168.1.33:8200/MediaItems/66.mp4
-#EXTINF:5901,157 - fin de semana de locura
-http://192.168.1.33:8200/MediaItems/68.mp4
-#EXTINF:5598,159 - al diablo con el diablo
-http://192.168.1.33:8200/MediaItems/99.mp4
-#EXTINF:6823,160 - amor ciego
-http://192.168.1.33:8200/MediaItems/98.mp4
-#EXTINF:6037,170 - mientras dormias
-http://192.168.1.33:8200/MediaItems/91.mp4
-#EXTINF:5647,172 - solo amigos
-http://192.168.1.33:8200/MediaItems/90.mp4
-#EXTINF:7029,177 - antman
-http://192.168.1.33:8200/MediaItems/89.mp4
-#EXTINF:5853,178 - ni idea
-http://192.168.1.33:8200/MediaItems/88.mp4
-#EXTINF:7095,179 - antman 2
-http://192.168.1.33:8200/MediaItems/87.mp4
-#EXTINF:6543,182 - el parendiz de brujo
-http://192.168.1.33:8200/MediaItems/97.mp4
-#EXTINF:5837,185 - llevame a casa esta noche
-http://192.168.1.33:8200/MediaItems/94.mp4
-#EXTINF:5668,186 - la peor noche de mi vida
-http://192.168.1.33:8200/MediaItems/93.mp4
-#EXTINF:6593,187 - quien son los miller
-http://192.168.1.33:8200/MediaItems/92.mp4
-#EXTINF:5544,188 - se dice de mi
-http://192.168.1.33:8200/MediaItems/104.mp4
-#EXTINF:5965,196 - ciega a citas
-http://192.168.1.33:8200/MediaItems/125.mp4
-#EXTINF:5824,197 - el club de los 5
-http://192.168.1.33:8200/MediaItems/102.mp4
-#EXTINF:6489,201 - enemigo mio
-http://192.168.1.33:8200/MediaItems/101.mp4
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="AMBA", TyC SPORT 
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="DEPORTE", Fox Sports Premium
+http://user.tvcluboficial.com/stream/nov/nov/658.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1410260561212882945/yeUi7tMe_400x400.jpg" group-title="DEPORTE", TNT Sports
+http://user.tvcluboficial.com/stream/nov/nov/509.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="DEPORTE", DirectTV Sports
+http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
+http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="DEPORTE", UNO CONTRA UNO TV
+https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
+http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
+http://user.tvcluboficial.com/stream/nov/nov/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
+http://user.tvcluboficial.com/stream/nov/nov/735.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
+http://user.tvcluboficial.com/stream/nov/nov/744.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
+http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
+http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
+http://user.tvcluboficial.com/stream/nov/nov/79.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="INFANTIL", Baby TV
+http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="INFANTIL", Tooncast
+http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
+http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX Sur
+http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="SERIES", Fox
+http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
+http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
+http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mP1b6/411b64dc27.png" group-title="SERIES",TCM
+http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwdML/61aec19cb5.png" group-title="SERIES", Warner Channel
+http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msGV1/093178617f.png" group-title="SERIES", Sony
+http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
+http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbGkk/b6e3cc25e6.png" group-title="SERIES", Studio Universal
+http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKOIx/06a80881a6.png" group-title="SERIES",TNT Series 
+http://user.tvcluboficial.com/stream/nov/nov/757.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
+http://user.tvcluboficial.com/stream/nov/nov/153.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="SERIES", AMC
+http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
+http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
+http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
+http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Fox Life Sur
+http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E 
+http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
+http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
+http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
+http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
+http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
+http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
+http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
+http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
+http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxaction.png" group-title="CINE", Fox Action
+http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxcinema.png" group-title="CINE", Fox Cinema
+http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxclassics.png" group-title="CINE", Fox Classics
+http://user.tvcluboficial.com/stream/nov/nov/48.m3u8 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxfamily.png" group-title="CINE", Fox Family
+http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="CINE", Fox Movies
+http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="CINE", Fox Movies Sur
+http://user.tvcluboficial.com/stream/nov/nov/747.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="CINE", Fox Series
+http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="CINE", Fox Series Sur
+http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
+http://user.tvcluboficial.com/stream/nov/nov/741.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="CURIOSIDAD", History Channel
+http://user.tvcluboficial.com/stream/nov/nov/67.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="CURIOSIDAD", H2 
+http://user.tvcluboficial.com/stream/nov/nov/760.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="CURIOSIDAD", Discovery H&H
+http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
+http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
+http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
+
+#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/200?cb=20200114222838&path-prefix=es" group-title="CURIOSIDAD", MAS CHIC
+https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="CURIOSIDAD", Glitz
+http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
+http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
+http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CURIOSIDAD", Film & Arts 
+http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
+http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
+http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
+http://user.tvcluboficial.com/stream/nov/nov/823.m3u8
 
