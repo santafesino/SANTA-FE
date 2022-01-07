@@ -110,66 +110,17 @@ http://user.tvcluboficial.com/stream/nov/nov/183.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="SERIES", AXN 
 http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="SERIES", ID Discovery
-http://user.tvcluboficial.com/stream/nov/nov/68.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5r2/486241bb2e.png" group-title="SERIES", TruTV
-http://user.tvcluboficial.com/stream/nov/nov/96.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxlife.png" group-title="SERIES",Fox Life Sur
-http://user.tvcluboficial.com/stream/nov/nov/746.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E 
 http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="SERIES",Comedy Central Sur
-http://user.tvcluboficial.com/stream/nov/nov/740.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/vKOP3/c19fcde9b2.png" group-title="SERIES",TBS Very Funny
-http://user.tvcluboficial.com/stream/nov/nov/171.m3u8
-
 #EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
 http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://puu.sh/mwqy1/9feaee8770.png" group-title="SERIES",Lifetime
 http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
 http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="CINE",HBO 2
-http://user.tvcluboficial.com/stream/nov/nov/300.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="CINE", HBO Plus
-http://user.tvcluboficial.com/stream/nov/nov/64.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="CINE", HBO Family
-http://user.tvcluboficial.com/stream/nov/nov/63.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxaction.png" group-title="CINE", Fox Action
-http://user.tvcluboficial.com/stream/nov/nov/46.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxcinema.png" group-title="CINE", Fox Cinema
-http://user.tvcluboficial.com/stream/nov/nov/47.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxclassics.png" group-title="CINE", Fox Classics
-http://user.tvcluboficial.com/stream/nov/nov/48.m3u8 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxfamily.png" group-title="CINE", Fox Family
-http://user.tvcluboficial.com/stream/nov/nov/49.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="CINE", Fox Movies
-http://user.tvcluboficial.com/stream/nov/nov/51.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxmovies.png" group-title="CINE", Fox Movies Sur
-http://user.tvcluboficial.com/stream/nov/nov/747.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="CINE", Fox Series
-http://user.tvcluboficial.com/stream/nov/nov/303.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxseries.png" group-title="CINE", Fox Series Sur
-http://user.tvcluboficial.com/stream/nov/nov/745.m3u8
 
 #EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
 http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
@@ -189,41 +140,11 @@ http://user.tvcluboficial.com/stream/nov/nov/24.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="CURIOSIDAD", Animal Planet
 http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/mb2Rd/9c56f73248.png" group-title="CURIOSIDAD", Nat Geo Wild
-http://user.tvcluboficial.com/stream/nov/nov/77.m3u8
-
-#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="CURIOSIDAD", GOURMET TV
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/200?cb=20200114222838&path-prefix=es" group-title="CURIOSIDAD", MAS CHIC
-https://amc-maschic-1.samsung.wurl.com/manifest/8c44a36cdc5ed261301bf8bc6dcddb02.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="CURIOSIDAD", Glitz
-http://user.tvcluboficial.com/stream/nov/nov/158.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mbLF3/ceac7e3575.png" group-title="CURIOSIDAD", TLC
-http://user.tvcluboficial.com/stream/nov/nov/87.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
 http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="CURIOSIDAD", Film & Arts 
-http://user.tvcluboficial.com/stream/nov/nov/149.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
 http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="ENTRETENIMIENTO",E!
-http://user.tvcluboficial.com/stream/nov/nov/33.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://puu.sh/maO70/72d9b8319f.png" group-title="ENTRETENIMIENTO", MTV
-http://user.tvcluboficial.com/stream/nov/nov/823.m3u8
-
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
+rtsp://admin:LYZELU@192.168.1.22/h264
