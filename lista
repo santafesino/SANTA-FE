@@ -1,9 +1,6 @@
 
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-country="AR" group-title="NOTICIAS", TODO NOTICIAS       
-https://www.youtube.com/watch?v=wHn1_QVoXGM
-
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
@@ -19,7 +16,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458815000269795334/xbLYTlgc_400x400.png" group-title="TV", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2019/10/logo-radio-2019-cabecera.jpg" group-title="TV", POWER MAX 104.1 FM RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1286668545661820929/9nqWAP92_400x400.jpg" group-title="TV", POWER MAX 104.1 FM RECREO SANTA FE
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
 
@@ -32,7 +29,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 #EXTINF:-1 tvg-id="CanaldelaCiudad.ar" tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1088570060887810048/IAlLnIgQ.jpg" group-title="AMBA", CANAL DE LA CIUDAD
 https://g2.proy-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8               
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1148265181090320384/f9ieXgQL_400x400.png" group-title="NOTICIAS", 24 HORAS ESPAÑA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318466550190559232/WvKM8ENd_400x400.jpg" group-title="NOTICIAS", 24 HORAS ESPAÑA
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1336651474894540801/KEo9sgTJ_400x400.jpg" group-title="AMBA", TyC SPORT 
@@ -53,47 +50,14 @@ http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 #EXTINF:-1 tvg-logo="https://media.tycsports.com/files/2020/11/12/138170/uno-contra-uno_862x485.jpg" group-title="DEPORTE", UNO CONTRA UNO TV
 https://stmvideo1.livecastv.com/ucuweb/ucuweb/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="INFANTIL", Disney Junior
-http://user.tvcluboficial.com/stream/nov/nov/743.m3u8
-
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
 http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
 http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/mw51W/3b10c832dd.png" group-title="INFANTIL", Nick
-http://user.tvcluboficial.com/stream/nov/nov/78.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="INFANTIL", Cartoonito
-http://user.tvcluboficial.com/stream/nov/nov/735.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="INFANTIL", Disney XD 
-http://user.tvcluboficial.com/stream/nov/nov/744.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="INFANTIL", Discovery Kids
-http://user.tvcluboficial.com/stream/nov/nov/25.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/wZVOI/399ecc3f7e.png" group-title="INFANTIL", Nat Geo Kids
-http://user.tvcluboficial.com/stream/nov/nov/412.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mw57k/d21813a8f6.png" group-title="INFANTIL", Nick JR
-http://user.tvcluboficial.com/stream/nov/nov/79.m3u8
-
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="INFANTIL", Baby TV
-http://user.tvcluboficial.com/stream/nov/nov/7.m3u8
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="INFANTIL", Tooncast
-http://user.tvcluboficial.com/stream/nov/nov/95.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://puu.sh/mwqrg/e525edd989.png" group-title="SERIES", SyFy 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1124418324031578115/PXhQXvGT_400x400.png" group-title="SERIES", SyFy 
 http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX Sur
 http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
@@ -101,18 +65,16 @@ http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="SERIES", Fox
 http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
 http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://puu.sh/reX9a/e5e9972612.png" group-title="SERIES", Space
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" group-title="SERIES", Space
 http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
 http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/vKP8k/b5666df9d4.png" group-title="SERIES", TNT 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1414466413713051658/oGcJtunq_400x400.jpg" group-title="SERIES", TNT 
 http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
