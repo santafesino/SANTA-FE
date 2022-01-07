@@ -1,9 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", CANAL 9  35.1
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Canal-nueve-ar2017.png" group-title="AMBA", EL NUEVE
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="MESOPOTAMIA", CANAL 9 PARANA
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455005318002266117/LyDuNBH7_400x400.jpg" group-title="MESOPOTAMIA", 9 LITORAL
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8LPw-2NROAydBROCEBS7Vh2pGq4r_ecijUDPNjVXKcitaXEnojMVM3Nsh2SWR9brUJW0&usqp=CAU" group-title="SANTA FE", SANTA FE CANAL
@@ -15,11 +15,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0303
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1458815000269795334/xbLYTlgc_400x400.png" group-title="TV", VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1286668545661820929/9nqWAP92_400x400.jpg" group-title="TV", POWER MAX 104.1 FM RECREO SANTA FE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1286668545661820929/9nqWAP92_400x400.jpg" group-title="TV", POWER MAX RECREO
 https://59537faa0729a.streamlock.net/radio1045/radio1045/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE +
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png" group-title="SANTA FE", AIRE DE SANTA FE 
 https://ny1.stweb.tv/airedigital/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbsG_5lOKcWAENfOGqnua-MTnwl2Y908bZBlFMgs-HzUXQy2PkOaV-BFAilWDjJlbfg&usqp=CAU" group-title="SANTA FE", CANAL 3 ROSARIO
@@ -46,55 +46,55 @@ http://user.tvcluboficial.com/stream/nov/nov/259.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="DEPORTE", DirectTV Sports 2
 http://user.tvcluboficial.com/stream/nov/nov/667.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", Cartoon Network 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="INFANTIL", CARTOON NETWORK
 http://user.tvcluboficial.com/stream/nov/nov/737.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", Disney Channel
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="INFANTIL", DISNEY CHANNEL
 http://user.tvcluboficial.com/stream/nov/nov/29.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1124418324031578115/PXhQXvGT_400x400.png" group-title="SERIES", SyFy 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1124418324031578115/PXhQXvGT_400x400.png" group-title="SERIES", SYFY 
 http://user.tvcluboficial.com/stream/nov/nov/758.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX Sur
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="SERIES", FX
 http://user.tvcluboficial.com/stream/nov/nov/749.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/logo_STAR_CHANNEL.png" group-title="SERIES", Star
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1362824653316759563/XwDvCEV2_400x400.jpg" group-title="SERIES", STAR CHANNEL
 http://user.tvcluboficial.com/stream/nov/nov/750.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/monkP/4502e76205.png" group-title="SERIES", Universal
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/534567607840407553/N1H7-Ytn_400x400.png" group-title="SERIES", UNIVERSAL
 http://user.tvcluboficial.com/stream/nov/nov/137.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/space.jpg" group-title="SERIES", Space
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1455915216471040008/cgfjG06F_400x400.jpg" group-title="SERIES", SPACE
 http://user.tvcluboficial.com/stream/nov/nov/751.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", Cinecanal
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="SERIES", CINECANAL
 http://user.tvcluboficial.com/stream/nov/nov/738.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1414466413713051658/oGcJtunq_400x400.jpg" group-title="SERIES", TNT 
 http://user.tvcluboficial.com/stream/nov/nov/752.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX Movies
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="SERIES",FX
 http://user.tvcluboficial.com/stream/nov/nov/43.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/tcm.jpg" group-title="SERIES",TCM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/661169810945007616/80mIVGEV_400x400.png" group-title="SERIES",TCM
 http://user.tvcluboficial.com/stream/nov/nov/85.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/warner.jpg" group-title="SERIES", Warner Channel
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/49036532/warner_channel_us_400x400.jpg" group-title="SERIES", Warner Channel
 http://user.tvcluboficial.com/stream/nov/nov/759.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/0000_all_l_SET000-02-LARGE-SQUARE-BW.png" group-title="SERIES", Sony
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1298006341135429632/tjNa20Kd_400x400.jpg" group-title="SERIES", Sony
 http://user.tvcluboficial.com/stream/nov/nov/145.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="SERIES", Cinemax 
 http://user.tvcluboficial.com/stream/nov/nov/739.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/studio-universal.png" group-title="SERIES", Studio Universal
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278328486537711617/1xTnagnW_400x400.jpg" group-title="SERIES", STUDIO UNIVERSAL
 http://user.tvcluboficial.com/stream/nov/nov/84.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cablevideodigitalbionik.com.ar/img/logoscanales/tntseries.jpg" group-title="SERIES",TNT Series 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837305655262330880/qQPwpyZH_400x400.jpg" group-title="SERIES",TNT SERIES
 http://user.tvcluboficial.com/stream/nov/nov/757.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="SERIES", I.Sat
@@ -109,16 +109,16 @@ http://user.tvcluboficial.com/stream/nov/nov/804.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="SERIES", A&E 
 http://user.tvcluboficial.com/stream/nov/nov/734.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/nsW5e/6bbcc438c7.png" group-title="SERIES",Paramount
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1300467858313564165/HkO8rmNI_400x400.jpg" group-title="SERIES",Paramount
 http://user.tvcluboficial.com/stream/nov/nov/200.m3u8
 
-#EXTINF:-1 tvg-logo="https://ar.teleringa.com/img/logo_canal/lifetime.png" group-title="SERIES",Lifetime
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278445617673580544/rPRU84IK_400x400.jpg" group-title="SERIES",Lifetime
 http://user.tvcluboficial.com/stream/nov/nov/152.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="CINE",HBO
 http://user.tvcluboficial.com/stream/nov/nov/62.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/msJjE/f96602e474.png" group-title="CURIOSIDAD", Nat Geo
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1433843729316687873/CWf8i_Sl_400x400.jpg" group-title="CURIOSIDAD", Nat Geo
 http://user.tvcluboficial.com/stream/nov/nov/76.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="CURIOSIDAD",Discovery Channel 
@@ -139,5 +139,3 @@ http://user.tvcluboficial.com/stream/nov/nov/3.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="CURIOSIDAD", Discovery SCI
 http://user.tvcluboficial.com/stream/nov/nov/26.m3u8
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="CURIOSIDAD",Discovery Civilization
-http://user.tvcluboficial.com/stream/nov/nov/23.m3u8
